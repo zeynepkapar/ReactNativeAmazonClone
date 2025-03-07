@@ -28,7 +28,8 @@ Kullanıcıların ürün keşfi, filtreleme ve detaylı inceleme yapabileceği g
 
 # Gif 
 
-![Uploading amazonclone.gif…]()
+
+![amazonclone](https://github.com/user-attachments/assets/f78ac19a-8a7b-4cf1-91a2-67be58fbd4ee)
 
 
 
